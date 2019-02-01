@@ -1,0 +1,8 @@
+﻿  ArucoMarkers.cpp
+c:\users\gugac\documents\projetovoxar\projetovoxar\arucomarkers.cpp(66): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\gugac\documents\projetovoxar\projetovoxar\arucomarkers.cpp(67): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\gugac\documents\projetovoxar\projetovoxar\arucomarkers.cpp(68): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\gugac\documents\projetovoxar\projetovoxar\arucomarkers.cpp(69): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+  main.cpp
+  Gerando Código...
+  ProjetoVoxar.vcxproj -> C:\Users\gugac\Documents\ProjetoVoxar\x64\Debug\ProjetoVoxar.exe
